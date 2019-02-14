@@ -7,4 +7,6 @@ Guía: https://dle.rae.es/?id=JooDg2q
 Inmenso: https://dle.rae.es/?id=LeSC2pY
 Anatomía: https://dle.rae.es/?id=2X6ixmm
 Aldea: https://dle.rae.es/?id=1fOp9Vn
-Rectar: https://dle.rae.es/?id=VWKej2P
+Rectar: https://dle.rae.es/?id=VWKej
+
+La última no funciona xD
